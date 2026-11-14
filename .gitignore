@@ -1,0 +1,4 @@
+.venv/
+.crew/
+__pycache__/
+tests/cwd/
