@@ -6,7 +6,7 @@ What happens to a tool call when the security hook in front of it fails?
 
 These tests check the pre-tool hook (`toolCallRequest` in the guide's terms) in five Python agent frameworks. Each test puts one tool that records whether it ran behind a hook that (a) denies, (b) raises, (c) hangs. The question each time: did the tool run?
 
-Write-up: [When a Pre-Tool Hook Crashes, CrewAI and the Claude Agent SDK Run the Tool Anyway](https://aminrj.com/posts/agent-hooks-fail-open/) (4 December 2026).
+Write-up: [When a Pre-Tool Hook Crashes, CrewAI and the Claude Agent SDK Run the Tool Anyway](https://aminrj.com/posts/agent-hooks-fail-open/) (14 November 2026).
 
 ## Results (14 November 2026)
 
